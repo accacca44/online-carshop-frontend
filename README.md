@@ -8,3 +8,5 @@ Backend: Java Spring
 - Security: JWT Tokens
 - Internalization: 18next library
 - Theming and Styling: MUI Components, MUI Icons
+- API Caching: react-query
+- Image drag-n-drop: embla-carousel
