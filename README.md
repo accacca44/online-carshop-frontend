@@ -9,4 +9,4 @@ Backend: Java Spring
 - Internalization: 18next library
 - Theming and Styling: MUI Components, MUI Icons
 - API Caching: react-query
-- Image drag-n-drop: embla-carousel
+- Image drag-n-drop and sliding images: embla-carousel
