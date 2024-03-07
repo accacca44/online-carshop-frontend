@@ -1,0 +1,56 @@
+{
+    "loading": "Încărcare",
+    "home": {
+        "no_carlisting": "Momentan nu sunt listări de mașini disponibile",
+        "car_listings": "Listări de Mașini"
+    },
+    "nav": {
+        "browse": "Navigare",
+        "users": "Utilizatori"
+    },
+    "user": {
+        "username": "Nume Utilizator",
+        "email": "Email",
+        "role": "Rol",
+        "your_car_listings": "Listările Tale de Mașini",
+        "full_name": "Nume Complet"
+    },
+    "car": {
+        "make": "Producător",
+        "model": "Model",
+        "year": "An",
+        "price": "Preț",
+        "mileage": "Kilometraj",
+        "phoneNumber": "Număr de Telefon",
+        "no_selected": "Nici o mașină selectată",
+        "dropHere": "Aici aruncă",
+        "orClick": "sau click pentru a selecta un fișier",
+        "dropImages": "Aruncă imagini aici",
+        "features": {
+            "automaticGearbox": "Cutie de viteze automată",
+            "heatedSeats": "Scaune încălzite",
+            "bluetooth": "Bluetooth",
+            "sunroof": "Panoramă",
+            "extra": "Extra",
+            "availability": "Disponibilitate"
+        }
+    },
+    "forms": {
+        "details": "Detalii",
+        "update_user_title": "Actualizare informații utilizator",
+        "update_car_title": "Actualizare informații mașină",
+        "create_car_title": "Creare mașină"
+    },
+    "buttons": {
+        "update": "Actualizare",
+        "delete": "Ștergere",
+        "create": "Creare",
+        "cancel": "Anulare",
+        "logout": "Deconectare",
+        "submit": "Trimitere",
+        "more": "Mai mult"
+    },
+    "error": {
+        "page_not_found": "Pagina nu a fost găsită, redirectionare către pagina principală"
+    }
+}

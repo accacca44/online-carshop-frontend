@@ -1,0 +1,56 @@
+{
+    "loading": "Betöltés",
+    "home": {
+        "no_carlisting": "Jelenleg nincs elérhető autóhirdetés",
+        "car_listings": "Autóhirdetések"
+    },
+    "nav": {
+        "browse": "Böngészés",
+        "users": "Felhasználók"
+    },
+    "user": {
+        "username": "Felhasználónév",
+        "email": "E-mail",
+        "role": "Szerep",
+        "your_car_listings": "Az Ön autóhirdetései",
+        "full_name": "Teljes név"
+    },
+    "car": {
+        "make": "Márka",
+        "model": "Modell",
+        "year": "Év",
+        "price": "Ár",
+        "mileage": "Kilométeróra állás",
+        "phoneNumber": "Telefonszám",
+        "no_selected": "Nincs kiválasztva autó",
+        "dropHere": "Dobja ide",
+        "orClick": "vagy kattintson a fájl kiválasztásához",
+        "dropImages": "Dobja ide a képeket",
+        "features": {
+            "automaticGearbox": "Automata váltó",
+            "heatedSeats": "Fűthető ülések",
+            "bluetooth": "Bluetooth",
+            "sunroof": "Napfénytető",
+            "extra": "Extra",
+            "availability": "Elérhetőség"
+        }
+    },
+    "forms": {
+        "details": "Részletek",
+        "update_user_title": "Felhasználói információk frissítése",
+        "update_car_title": "Autó információinak frissítése",
+        "create_car_title": "Autó létrehozása"
+    },
+    "buttons": {
+        "update": "Frissítés",
+        "delete": "Törlés",
+        "create": "Létrehozás",
+        "cancel": "Mégse",
+        "logout": "Kijelentkezés",
+        "submit": "Beküldés",
+        "more": "Tovább"
+    },
+    "error": {
+        "page_not_found": "Az oldal nem található, átirányítás a kezdőlapra"
+    }
+}

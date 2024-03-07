@@ -1,0 +1,56 @@
+{
+    "loading": "Loading",
+    "home": { 
+        "no_carlisting": "Ther are no carlistings available at the moment",
+        "car_listings": "Car Listings"
+    },
+    "nav": {
+        "browse": "Browse",
+        "users": "Users"
+    },
+    "user": {
+        "username": "Username",
+        "email": "Email",
+        "role": "Role",
+        "your_car_listings": "Your Car Listings",
+        "full_name": "Full Name"
+    },
+    "car": {
+        "make": "Make",
+        "model": "Model",
+        "year": "Year",
+        "price": "Price",
+        "mileage": "Mileage",
+        "phoneNumber": "Phone Number",
+        "no_selected" : "No car selected",
+        "dropHere": "Drop here",
+        "orClick": "or click to select a file",
+        "dropImages": "Drop images here",
+        "features": {
+            "automaticGearbox": "Automatic gearbox",
+            "heatedSeats": "Heated seats",
+            "bluetooth": "Bluetooth",
+            "sunroof": "Sunroof",
+            "extra": "Extra",
+            "availability": "Availability"
+        }
+    },
+    "forms": {
+        "details": "Details",
+        "update_user_title": "Update user information",
+        "update_car_title": "Update car information",
+        "create_car_title": "Create car"
+    },
+    "buttons": {
+        "update": "Update",
+        "delete": "Delete",
+        "create": "Create",
+        "cancel": "Cancel",
+        "logout": "Logout",
+        "submit": "Submit",
+        "more": "More"
+    },
+    "error":{
+        "page_not_found": "Page not found redirecting to home"
+    }
+}
